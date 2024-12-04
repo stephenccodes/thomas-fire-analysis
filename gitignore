@@ -1,5 +1,0 @@
-# Ignore large data folder
-data_large/
-
-# Ignore Jupyter Notebook checkpoints
-.ipynb_checkpoints/
