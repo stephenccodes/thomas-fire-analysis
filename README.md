@@ -42,10 +42,10 @@ All materials were created by [Carmen Galaz-Garcia](https://github.com/carmengg)
 ├── data/
 │    ├── thomas_fire/
 │    │   ├── thomas_fire.shp # Thomas fire perimeter data
-│    │    ├── thomas_fire.cpg
-│    │    ├── thomas_fire.dbf
-│    │    ├── thomas_fire.prj
-│    │    └── thomas_fire.shx
+│    │   ├── thomas_fire.cpg
+│    │   ├── thomas_fire.dbf
+│    │   ├── thomas_fire.prj
+│    │   └── thomas_fire.shx
 │    ├── daily_aqi_by_county_2017.csv # 2017 AQI data
 │    ├── daily_aqi_by_county_2018.csv # 2018 AQI data
 │    └──landsat8-2018-01-26-sb-simplified.nc # Landsat data
